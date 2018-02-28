@@ -1,5 +1,11 @@
-#ifndef OBJDECT_POOL_H_
-#define OBJDECT_POOL_H_
+/*************************************************************************
+	> File Name: object_pool.h
+	> Author: xyz
+	> Mail: xiao13149920@foxmail.com 
+	> Created Time: Tue 07 Feb 2018 14:38:55 PM CST
+ ************************************************************************/
+#ifndef OBJDECT_POOL_H
+#define OBJDECT_POOL_H
 #include<unistd.h>
 #include<mutex>
 #include<list>
