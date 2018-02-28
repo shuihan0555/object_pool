@@ -6,7 +6,7 @@
  ************************************************************************/
 
 #include<iostream>
-#include"../object_pool.h"
+#include"object_pool.h"
 
 using namespace std;
 
